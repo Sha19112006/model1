@@ -1,14 +1,7 @@
 fastapi
 uvicorn
-<<<<<<< HEAD
 scikit-learn
 pandas
 numpy
 joblib
-=======
-pydantic>=2
-pandas
-numpy
-joblib
-scikit-learn==1.8.0
->>>>>>> 19fc3757080df6c2eaccf503a3ef9e44c496234c
+
